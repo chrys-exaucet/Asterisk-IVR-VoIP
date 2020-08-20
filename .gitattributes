@@ -1,4 +1,4 @@
 *.sql linguist-detectable=true
-*.conf linguist-language=Asterisk
+*.conf linguist-language=Shell
 *.sql linguist-language=SQL
 
