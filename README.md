@@ -6,7 +6,7 @@
 
 We perform basic VoIP using 3CX softphones and IVR.
 
-![VoIP gif demo](https://github.com/chrys-exaucet/Interactive-Voice-Response/blob/master/Demos/Test-VoIP.gif)
+![VoIP gif demo](Demos/Test-VoIP.gif)
 
 
 ## Part II: IVR service
@@ -15,6 +15,7 @@ We chose the A level examination for the purpose of demo.
 One can change the database schema and adapt it to its will.
 That would also imply an adaptation of the agi script and the asterisk dial plan.
 
-![SVI gif demo](https://github.com/chrys-exaucet/Interactive-Voice-Response/blob/master/Demos/Test-SVI.gif)
+![SVI gif demo](Demos/Test-SVI.gif)
 
     Kindly refer to the documentation folder for further informations.
+    Any trouble or insight? Feel free to open an issue.
