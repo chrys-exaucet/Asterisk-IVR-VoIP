@@ -2,7 +2,6 @@
 
 Implementing VoIP and an IVR service through ASTERISK IPBX.
 
-### Part I : VoIP 
 The first part is about performing  basic VoIP using 3CX softphones and IVR.
 Next, we take advantage of Asterisk ivr capababilities to publish his exanination results to  a student.
 We chose the A level examination for the purpose of demo.
