@@ -1,4 +1,4 @@
-## Exam Herald
+## Herald
 
 Implementing VoIP and an IVR service through ASTERISK IPBX.
 
